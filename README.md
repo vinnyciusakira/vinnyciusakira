@@ -11,3 +11,5 @@
 <p align="left">
 <a href="https://instagram.com/vinnycius_akira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinnycius_akira" height="30" width="40" /></a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinnyciusakira&show_icons=true&locale=en" alt="vinnyciusakira" /></p>
